@@ -15,7 +15,7 @@
 from setuptools import setup
 
 setup(
-    name = 'adb',
+    name = 'frida-android-adb',
     packages = ['adb'],
     version = '1.2.0',
     author = 'Fahrzin Hemmati',
